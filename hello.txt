@@ -1,7 +1,4 @@
 hello world! hello git!
 hello world! hello git!
-<<<<<<< HEAD
 changed change again! master comfliex iii
-=======
 hot-fix change hot-fix conflix
->>>>>>> hot-fix
